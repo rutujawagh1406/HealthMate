@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_chatbot"
+        android:icon="@drawable/baseline_chat_24"
+        android:title="Chatbot" />
+
+    <item
+        android:id="@+id/nav_step_counter"
+        android:icon="@drawable/baseline_directions_walk_24"
+        android:title="Step Counter" />
+
+</menu>

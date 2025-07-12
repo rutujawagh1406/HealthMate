@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="RoundedEditText">
+        <item name="android:background">@drawable/edittext_rounded</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textColor">@android:color/black</item>
+    </style>
+
+    <style name="BubbleUser">
+        <item name="android:background">@drawable/bubble_user</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:padding">10dp</item>
+    </style>
+
+    <style name="BubbleBot">
+        <item name="android:background">@drawable/bubble_bot</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:padding">10dp</item>
+    </style>
+</resources>
